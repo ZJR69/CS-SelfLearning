@@ -1,0 +1,23 @@
+# C/C++ 编译产物
+*.exe
+*.o
+*.obj
+*.out
+output/
+*.ilk
+*.pdb
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# 编辑器
+.vscode/
+.idea/
+
+# 系统
+Thumbs.db
+Desktop.ini
+.DS_Store
