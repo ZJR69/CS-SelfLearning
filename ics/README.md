@@ -7,6 +7,7 @@
 | 编号 | 单元 | 状态 | 备注 |
 |------|------|------|------|
 | 01 | [从 ISA 到汇编](01-isa-to-assembly/) | 🟡 | 汇编第一节：分治与抽象、ISA 契约、CISC vs RISC、x86-64 语法、读汇编实战 |
+| 02 | [控制流与跳转](02-control-flow-and-jumps/) | 🟡 | 汇编第二节：PC 与标志位、jmp/jXX、if-else/循环/switch/cmov 汇编指纹、gdb、考研真题 |
 
 ## 备注
 
