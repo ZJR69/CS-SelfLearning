@@ -14,6 +14,7 @@
 |------|------|---------|------|
 | 数据结构与算法 | [data-structures-algorithms/](data-structures-algorithms/) | 1 个单元 | 🟡 |
 | 计算机系统（ICS） | [ics/](ics/) | 1 个单元 | 🟡 |
+| 数据科学 | [data-science/](data-science/) | 1 个单元 | 🟡 |
 
 ## 🗂 仓库结构
 
